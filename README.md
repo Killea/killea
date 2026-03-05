@@ -48,8 +48,4 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=killea&theme=radical&hide_border=true" alt="streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=killea&theme=radical&no-frame=true&row=1&column=7" alt="trophy" />
-</p>
-
 <sub>⚡ Inspired by awesome GitHub profiles & powered by Shields.io</sub>
