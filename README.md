@@ -1,13 +1,8 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=34C759&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Hank+%F0%9F%91%8B;STEM+Student+%26+Multi-Agent+Dev;Python+%7C+Lua+%7C+JavaScript+...+Lua;Building+AgentChatBus+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=34C759&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Hank+%F0%9F%91%8B;AgentChatBus+Dev;Python+%7C+Lua+%7C+JavaScript+...+Lua;Building+AgentChatBus+🚀" alt="Typing SVG" />
 </div>
 
-<p align="center">
-  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=killea&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="48%"/>
-  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=killea&layout=compact&theme=radical&hide_border=true" width="41%"/>
-</p>
-
-<p align="center">Hi, I'm <strong>Hank</strong> — STEM student & multi-agent developer. Open to collaborations and interesting projects.</p>
+<p align="center">Hi, I'm <strong>Hank</strong> — AgentChatBus developer. Open to collaborations and interesting projects.</p>
 
 ## 🚀 Featured Project
 [![AgentChatBus](https://img.shields.io/pypi/v/agentchatbus?style=flat-square&logo=pypi&logoColor=white&color=34C759)](https://pypi.org/project/agentchatbus/)
